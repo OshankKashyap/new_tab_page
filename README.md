@@ -1,0 +1,1 @@
+This page is to be utilized a home page for browsers. More functionality will be added soon.
